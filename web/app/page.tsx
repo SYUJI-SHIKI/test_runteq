@@ -15,6 +15,9 @@ export default function Home() {
 
       <h1>見えてます！僕のは見えますか？</h1>
 
+
+      <p>gitは奥が深いね</p>
+
       <p>develop</p>
       <div className={styles.grid}>
         {['Feature 1', 'Feature 2', 'Feature 3'].map((feature, index) => (
