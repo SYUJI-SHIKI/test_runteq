@@ -11,6 +11,7 @@ export default function Home() {
         テスト結果
       </p>
 
+      <p>develop</p>
       <div className={styles.grid}>
         {['Feature 1', 'Feature 2', 'Feature 3'].map((feature, index) => (
           <a href="#" className={styles.card} key={index}>
