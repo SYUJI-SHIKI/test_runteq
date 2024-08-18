@@ -28,9 +28,8 @@ export default function Home() {
             </a>
           ))}
         </div>
-      </main>
-
       <h2>いちご狩の鬼ここが更新場所です。</h2>
+      </main>
     </>
   )
 }
