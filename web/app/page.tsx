@@ -25,5 +25,7 @@ export default function Home() {
         ))}
       </div>
     </main>
+
+    <h2>いちご狩の鬼ここが更新場所です。</h2>
   )
 }
